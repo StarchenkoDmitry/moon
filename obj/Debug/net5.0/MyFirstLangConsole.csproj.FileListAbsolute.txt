@@ -1,0 +1,16 @@
+F:\Projects\Microsoft Visual 2021\MyFirstLangConsole\MyFirstLangConsole\bin\Debug\net5.0\MyFirstLangConsole.exe
+F:\Projects\Microsoft Visual 2021\MyFirstLangConsole\MyFirstLangConsole\bin\Debug\net5.0\MyFirstLangConsole.deps.json
+F:\Projects\Microsoft Visual 2021\MyFirstLangConsole\MyFirstLangConsole\bin\Debug\net5.0\MyFirstLangConsole.runtimeconfig.json
+F:\Projects\Microsoft Visual 2021\MyFirstLangConsole\MyFirstLangConsole\bin\Debug\net5.0\MyFirstLangConsole.runtimeconfig.dev.json
+F:\Projects\Microsoft Visual 2021\MyFirstLangConsole\MyFirstLangConsole\bin\Debug\net5.0\MyFirstLangConsole.dll
+F:\Projects\Microsoft Visual 2021\MyFirstLangConsole\MyFirstLangConsole\bin\Debug\net5.0\ref\MyFirstLangConsole.dll
+F:\Projects\Microsoft Visual 2021\MyFirstLangConsole\MyFirstLangConsole\bin\Debug\net5.0\MyFirstLangConsole.pdb
+F:\Projects\Microsoft Visual 2021\MyFirstLangConsole\MyFirstLangConsole\obj\Debug\net5.0\MyFirstLangConsole.csproj.AssemblyReference.cache
+F:\Projects\Microsoft Visual 2021\MyFirstLangConsole\MyFirstLangConsole\obj\Debug\net5.0\MyFirstLangConsole.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Microsoft Visual 2021\MyFirstLangConsole\MyFirstLangConsole\obj\Debug\net5.0\MyFirstLangConsole.AssemblyInfoInputs.cache
+F:\Projects\Microsoft Visual 2021\MyFirstLangConsole\MyFirstLangConsole\obj\Debug\net5.0\MyFirstLangConsole.AssemblyInfo.cs
+F:\Projects\Microsoft Visual 2021\MyFirstLangConsole\MyFirstLangConsole\obj\Debug\net5.0\MyFirstLangConsole.csproj.CoreCompileInputs.cache
+F:\Projects\Microsoft Visual 2021\MyFirstLangConsole\MyFirstLangConsole\obj\Debug\net5.0\MyFirstLangConsole.dll
+F:\Projects\Microsoft Visual 2021\MyFirstLangConsole\MyFirstLangConsole\obj\Debug\net5.0\ref\MyFirstLangConsole.dll
+F:\Projects\Microsoft Visual 2021\MyFirstLangConsole\MyFirstLangConsole\obj\Debug\net5.0\MyFirstLangConsole.pdb
+F:\Projects\Microsoft Visual 2021\MyFirstLangConsole\MyFirstLangConsole\obj\Debug\net5.0\MyFirstLangConsole.genruntimeconfig.cache
